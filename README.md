@@ -3,7 +3,7 @@ Privacy Policy
 
 Effective Date: [2023-7-6]
 
-This Privacy Policy describes how we collects, uses, and protects personal information when you use our mobile application [Test_Subscription_demo] ("App").
+This Privacy Policy describes how we collects, uses, and protects personal information when you use our mobile application [MinerControl] ("App").
 
 Information We Collect:
 
